@@ -1,0 +1,12 @@
+/Users/konrad/Documents/vs-projects/c-sharp/hand-in-one/obj/Debug/netcoreapp3.1/hand-in-one.csprojAssemblyReference.cache
+/Users/konrad/Documents/vs-projects/c-sharp/hand-in-one/obj/Debug/netcoreapp3.1/hand-in-one.AssemblyInfoInputs.cache
+/Users/konrad/Documents/vs-projects/c-sharp/hand-in-one/obj/Debug/netcoreapp3.1/hand-in-one.AssemblyInfo.cs
+/Users/konrad/Documents/vs-projects/c-sharp/hand-in-one/obj/Debug/netcoreapp3.1/hand-in-one.csproj.CoreCompileInputs.cache
+/Users/konrad/Documents/vs-projects/c-sharp/hand-in-one/bin/Debug/netcoreapp3.1/hand-in-one.deps.json
+/Users/konrad/Documents/vs-projects/c-sharp/hand-in-one/bin/Debug/netcoreapp3.1/hand-in-one.runtimeconfig.json
+/Users/konrad/Documents/vs-projects/c-sharp/hand-in-one/bin/Debug/netcoreapp3.1/hand-in-one.runtimeconfig.dev.json
+/Users/konrad/Documents/vs-projects/c-sharp/hand-in-one/bin/Debug/netcoreapp3.1/hand-in-one.dll
+/Users/konrad/Documents/vs-projects/c-sharp/hand-in-one/bin/Debug/netcoreapp3.1/hand-in-one.pdb
+/Users/konrad/Documents/vs-projects/c-sharp/hand-in-one/obj/Debug/netcoreapp3.1/hand-in-one.dll
+/Users/konrad/Documents/vs-projects/c-sharp/hand-in-one/obj/Debug/netcoreapp3.1/hand-in-one.pdb
+/Users/konrad/Documents/vs-projects/c-sharp/hand-in-one/obj/Debug/netcoreapp3.1/hand-in-one.genruntimeconfig.cache
